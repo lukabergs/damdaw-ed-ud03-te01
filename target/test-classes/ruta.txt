@@ -1,0 +1,6 @@
+Excursion al monte
+Parking 0 0
+cruce 0 5
+fuente 0 10
+cruce 0 15
+cima 0 20

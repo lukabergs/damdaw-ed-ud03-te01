@@ -50,7 +50,7 @@ public class Ruta {
    // Métodos add
    // Añade las coordenadas x e y a la ruta
    public void addPunto(String etiqueta, int x, int y) {
-      Punto nuevo = new Punto(y, x, etiqueta);
+      Punto nuevo = new Punto(x, y, etiqueta);
       ruta.add(nuevo);
    }
    
